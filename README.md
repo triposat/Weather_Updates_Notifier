@@ -9,7 +9,7 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Age_Calculator/blob/main/Age_Calculator">**`WEATHER UPDATES NOTIFIER`**</a>Using `PYTHON`<h1/>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py">**`WEATHER UPDATES NOTIFIER`**</a> Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
