@@ -24,17 +24,16 @@ _______________________________
 
 # PreRequisite:
 ```python
-            ~ pip install python-dateutil
+            ~ pip install requests
             ~ pip install plyer
 ```
              
 # Module Needed:
 ```python 
-              from dateutil.relativedelta import relativedelta
-              from datetime import datetime
-              from time import strptime
+              import requests
+              import math
+              import datetime
               from plyer import notification
-              import os 
 ```
 
 _________________________________
