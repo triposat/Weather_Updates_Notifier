@@ -38,6 +38,27 @@ _______________________________
               from plyer import notification
 ```
 
+# Use of **`requests`** Module:
+```python
+       1. Use to send all kinds of HTTP requests. 
+       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+```
+# Use of **`plyer`** Module:
+```python
+       1. Used as a Desktop Notifier. 
+       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
+```
+# Use of **`datetime`** Module:
+```python
+       1. This Module supplies classes to work with date and time.
+       2. These classes provide a number of functions to deal with dates, times and time intervals.
+```
+
+# Use of **`math`** Module:
+```python
+       1. To use mathematical functions under this module, you have to import the module
+       2. This module does not support complex datatypes.
+```
 _________________________________
 
 <br/>
