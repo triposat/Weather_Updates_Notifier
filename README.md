@@ -38,11 +38,6 @@ _______________________________
           from plyer import notification
 ```
 
-# Use of **`requests`** Module:
-```python
-       1. Use to send all kinds of HTTP requests. 
-       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-```
 # Use of **`plyer`** Module:
 ```python
        1. Used as a Desktop Notifier. 
@@ -58,6 +53,11 @@ _______________________________
 ```python
        1. To use mathematical functions under this module, you have to import the module
        2. This module does not support complex datatypes.
+```
+# Use of **`requests`** Module:
+```python
+       1. Use to send all kinds of HTTP requests. 
+       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
 ```
 _________________________________
 
