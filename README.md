@@ -8,15 +8,19 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Weather_Updates_Notifier}/count.svg" alt=Iamtripathisatyam />
+</p>
+
 _______________________________
 ### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py">**`WEATHER UPDATES NOTIFIER`**</a> Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
   
-- This is one of my best project which I made in `10 Days`.
+- This is one of my best project which I made in `10 Days.`
 - This Project is really amazing.
-- They will help you a lot in learning something new in `PYTHON`.
+- They will help you a lot in learning something new in `PYTHON.`
 
 </h3>
 
@@ -63,7 +67,6 @@ _________________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Weather_Updates_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Weather_Updates_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Weather_Updates_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
