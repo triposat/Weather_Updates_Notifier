@@ -17,10 +17,8 @@
   <img src="https://profile-counter.glitch.me/{Weather_Updates_Notifier}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-_______________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
-_______________________________
 
 ### Prerequisite:
 ```python
