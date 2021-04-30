@@ -30,7 +30,7 @@ _______________________________
         ~ API KEY = "88d279a5ff5fcd8e338ab42d94c819c3"
 ```             
 
-### Module Needed:
+### Module needed:
 ```python 
           import requests
           import math
