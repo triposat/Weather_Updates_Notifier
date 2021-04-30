@@ -1,3 +1,8 @@
+![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Weather_Updates_Notifier?color=red&label=Repo%20Size%20)</br>
+![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)</br>
+![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Weather_Updates_Notifier?color=red&label=Lines%20of%20Code)</br>
+
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/128/Status-weather-showers-day-icon.png" />
 </p>
@@ -13,10 +18,11 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py">**`WEATHER UPDATES NOTIFIER`**</a> Using `PYTHON`<h1/>
+
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Covid_19_Cases.py"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 _______________________________
 
-# PreRequisite:
+### Prerequisite:
 ```python
         ~ pip install requests
         ~ pip install plyer
@@ -24,7 +30,7 @@ _______________________________
         ~ API KEY = "88d279a5ff5fcd8e338ab42d94c819c3"
 ```             
 
-# Module Needed:
+### Module Needed:
 ```python 
           import requests
           import math
@@ -32,23 +38,23 @@ _______________________________
           from plyer import notification
 ```
 
-# Use of **`plyer`** Module:
+### Use of `plyer` module:
 ```python
        1. Used as a Desktop Notifier. 
        2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
-# Use of **`datetime`** Module:
+### Use of `datetime` module:
 ```python
        1. This Module supplies classes to work with date and time.
        2. These classes provide a number of functions to deal with dates, times and time intervals.
 ```
 
-# Use of **`math`** Module:
+### Use of `math` module:
 ```python
        1. To use mathematical functions under this module, you have to import the module
        2. This module does not support complex datatypes.
 ```
-# Use of **`requests`** Module:
+### Use of `requests` module:
 ```python
        1. Use to send all kinds of HTTP requests. 
        2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
