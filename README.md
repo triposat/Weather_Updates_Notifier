@@ -19,7 +19,7 @@
 
 _______________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 _______________________________
 
 ### Prerequisite:
@@ -39,26 +39,18 @@ _______________________________
 ```
 
 ### Use of `plyer` module:
-```python
-       1. Used as a Desktop Notifier. 
-       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
-```
+   - Used as a Desktop Notifier. 
+   - It produces a Notification Message in form of a POP-UP Message on Desktop.
 ### Use of `datetime` module:
-```python
-       1. This Module supplies classes to work with date and time.
-       2. These classes provide a number of functions to deal with dates, times and time intervals.
-```
+   - This Module supplies classes to work with date and time.
+   - These classes provide a number of functions to deal with dates, times and time intervals.
 
 ### Use of `math` module:
-```python
-       1. To use mathematical functions under this module, you have to import the module
-       2. This module does not support complex datatypes.
-```
+   - To use mathematical functions under this module, you have to import the module
+   - This module does not support complex datatypes.
 ### Use of `requests` module:
-```python
-       1. Use to send all kinds of HTTP requests. 
-       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-```
+   - Use to send all kinds of HTTP requests. 
+   - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
 _________________________________
 
 <br/>
