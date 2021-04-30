@@ -19,7 +19,7 @@
 
 _______________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Covid_19_Cases.py"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 _______________________________
 
 ### Prerequisite:
