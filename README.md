@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Weather_Updates_Notifier?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/128/Status-weather-showers-day-icon.png" />
+<img src="https://cutt.ly/6blvlW4" />
 </p>
 
 <p align="center">
