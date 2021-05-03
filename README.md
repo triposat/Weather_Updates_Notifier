@@ -51,6 +51,8 @@
    - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
 _________________________________
 
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Weather_Updates_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
