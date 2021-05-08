@@ -20,15 +20,15 @@ if __name__ == '__main__':
             current_humidiy = y["humidity"]
             z = x["weather"]
             weather_description = z[0]["description"]
-            notification.notify(title=f"Weather Updates\tDate : {dat}\tTime - {tim}", message=f"City : {city_name.capitalize()}\nTemperature : "
-                                f"{math.ceil(curr)}{chr(176)}C\nAtmospheric Pressure : {current_pressure} hpa"
-                                f"\nHumidity : {current_humidiy}%\nDescription"
-                                f" : {weather_description}", app_icon="C:/Users/Dell/Downloads/weather.ico", timeout=10)
+            notification.notify(title=f"Weather Updates\tDate: {dat}\tTime - {tim}", message=f"City: {city_name.capitalize()}\nTemperature: "
+                                f"{math.ceil(curr)}{chr(176)}C\nAtmospheric Pressure: {current_pressure} hpa"
+                                f"\nHumidity: {current_humidiy}%\nDescription"
+                                f": {weather_description}", app_icon="C:/Users/Dell/Downloads/weather.ico", timeout=10)
         else:
             notification.notify(title="Alert! City not "
-                                "found", message="Please Try Again !!", app_icon="C:/Users/Dell/Downloads/err.ico",
+                                "found", message="Please Try Again!", app_icon="C:/Users/Dell/Downloads/err.ico",
                                 timeout=10)
-        a = input("Do You Want Check Again : Press[Y/N]").lower()
+        a = input("Do You Want Check Again: Press[Y/N]").lower()
         if a == 'y':
             continue
         else:
