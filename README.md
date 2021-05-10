@@ -49,9 +49,7 @@
 ### Use of `requests` module:
    - Use to send all kinds of HTTP requests. 
    - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-_________________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
+___________________________________
 
-<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
-
+<p>&copy; 2021 Satyam Tripathi</p>
