@@ -18,7 +18,7 @@
 </p>
 
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
 ### Prerequisite:
 ```python
