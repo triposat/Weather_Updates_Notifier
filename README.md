@@ -1,55 +1,24 @@
-[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)</br>
-![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Weather_Updates_Notifier?color=red&label=Repo%20Size%20)</br>
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Weather_Updates_Notifier?color=red&label=Lines%20of%20Code)</br>
+![](https://forthebadge.com/images/badges/for-you.svg)
+![](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)
+![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Weather_Updates_Notifier?color=red&label=Repo%20Size%20)
+![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Weather_Updates_Notifier?color=red&label=Lines%20of%20Code)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
+![](https://profile-counter.glitch.me/{Weather_Updates_Notifier}/count.svg)
 
 <p align="center">
-<img src="https://cutt.ly/6blvlW4" />
-</p>
-
-<p align="center">
-<img src="https://forthebadge.com/images/badges/for-you.svg" />
-<img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
-<img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Weather_Updates_Notifier}/count.svg" alt=Iamtripathisatyam />
+<img src="https://cdn.icon-icons.com/icons2/517/PNG/512/cloud_weathe_sun_icon-icons.com_51096.png" width="120"/>
 </p>
 
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py"><img src="https://img.shields.io/badge/-WEATHER UPDATES NOTIFIER-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py"><img src="https://img.shields.io/badge/-WEATHER FORECAST-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
-### Prerequisite:
-```python
-        ~ pip install requests
-        ~ pip install plyer
-        ~ BASE URL = "https://api.openweathermap.org/data/2.5/weather?"
-        ~ API KEY = "88d279a5ff5fcd8e338ab42d94c819c3"
-```             
-
-### Module needed:
-```python 
-          import requests
-          import math
-          import datetime
-          from plyer import notification
-```
-
-### Use of `plyer` module:
-   - Used as a Desktop Notifier. 
-   - It produces a Notification Message in form of a POP-UP Message on Desktop.
-### Use of `datetime` module:
-   - This Module supplies classes to work with date and time.
-   - These classes provide a number of functions to deal with dates, times and time intervals.
-
-### Use of `math` module:
-   - To use mathematical functions under this module, you have to import the module
-   - This module does not support complex datatypes.
-### Use of `requests` module:
-   - Use to send all kinds of HTTP requests. 
-   - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-
+- Let's see a simple Web Application made by using Python Programming Language.
+- It takes a **City** name and provide the **Current Weather data.**
+- **OpenWeatherMap** is a service that provides Current Weather Data.
+- Get the **API** key from [*OpenWeather.org*](https://openweathermap.org/api) to begin extracting data.
+- User need to create an account on [*OpenWeather.org*](https://openweathermap.org/api), then only can use the **APIs**.
 ___________________________________
 
 <p>&copy; 2021 Satyam Tripathi</p>
