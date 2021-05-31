@@ -11,9 +11,6 @@
 <a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Forecast.ipynb"><img src="https://cdn.icon-icons.com/icons2/517/PNG/512/cloud_weathe_sun_icon-icons.com_51096.png" width="120"/></a>
 </p>
 
-
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Forecast.ipynb"><img src="https://img.shields.io/badge/-WEATHER FORECAST-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
-
 - Let's [_see_](https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Forecast.ipynb) a simple Web Application made by using Python Programming Language.
 - It takes a **City** name and provide the **Current Weather data.**
 - **OpenWeatherMap** is a service that provides Current Weather Data.
